@@ -1,0 +1,84 @@
+.pozadina{
+    background-color: #eea990;
+    height: 685px;
+    margin: 0px;
+    padding: 0px;
+}
+.me{
+    width: 350px;
+    height: 350px;
+    float: right;
+    margin: 150px 200px 0px 0px;
+    border: 7px dashed white;
+    border-radius: 200px;
+}
+#n1{
+    color: white;
+    padding-top: 300px;
+    padding-left: 200px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+}
+
+header{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: larger;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.navbar{
+    text-decoration: none;
+    color: black;
+    margin: 0px 10px;
+}
+.navbar:hover{
+    color: #eea990;
+}
+
+.edu{
+    float: left;
+    height: 200px;
+    width: 200px;
+    padding: 70px 0px 0px 150px;
+}
+
+table{
+    margin-left: 150px;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    line-height: 25px;
+}
+td{
+    padding: 0px 10px 0px 10px;
+}
+.aboutme{
+    display: inline-block;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    padding-top: 200px;
+    margin-left: 150px;
+    width: 700px;
+}
+.link{
+    color: white;
+    text-decoration: underline;
+}
+.slika1{
+    float: right;
+    height: 300px;
+    width: 450px;
+    padding-top: 150px;
+    padding-right: 150px;
+}
+.contact-info{
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    padding-top: 150px;
+}
+.contact-info a{
+    color: white;
+}
